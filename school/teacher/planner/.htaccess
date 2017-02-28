@@ -1,0 +1,7 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options Indexes
+ErrorDocument 404 triggered! you have a 404!
+DirectoryIndex index.html       
+order deny,allow
