@@ -3,6 +3,7 @@
 
 input {
    font-family: whitney;
+   text-align: center;
 }
 .submissionfield { 
     width: 90px; 
